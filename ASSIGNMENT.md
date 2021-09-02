@@ -16,19 +16,21 @@
 ### 2. Bashcrawling 👾
 
  - Create branch `bash` 
- - Git clone bashcrawl into a separate project folder
- - Add contents of /bashcrawl into the `bash` branch
+ - Replace the existing files with the contents of the bashcrawl repo. Use the following commmand or a modified version appropriately
+
+ `git clone https://gitlab.com/slackermedia/bashcrawl.git`
+
  - Checkout README (essentially cd entrance, cat scroll, and begin the game)
  - Play the game
- - List out which treasures you found
- - Commit and push this branch
- - NOTE: Do not try to finish the game. I too am unsure as to how big it is. I recommend spending around ~30 mins exploring and learning as much as possible
+ - List out which treasures you found in the README.md
+ - Commit and push this branch (do not merge)
+ - NOTE: Do not try to finish the game. I'm also unsure how big it is. I recommend spending around ~30 mins exploring and learning as much as possible
 
-   `git clone https://gitlab.com/slackermedia/bashcrawl.git bashcrawl`
+   
 
 ### 3. 🚀🚀🚀
 
- - Include a screenshot of your high score in [command-line-heroes](https://www.redhat.com/en/command-line-heroes/bash/index.html?extIdCarryOver=true&sc_cid=701f2000001OH7nAAG)!
+ - Include a screenshot of your high score in [command-line-heroes](https://www.redhat.com/en/command-line-heroes/bash/index.html?extIdCarryOver=true&sc_cid=701f2000001OH7nAAG)! (Highest gets some welfare teehee)
 
 ### Optional
 
